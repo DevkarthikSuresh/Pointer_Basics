@@ -1,6 +1,6 @@
 // Online C++ compiler to run C++ program online
 #include <iostream>
-#include<string>
+
 using namespace std;
 
 int main() {
@@ -46,3 +46,32 @@ int main() {
 
     return 0;
 }
+
+/*
+Output
+
+For integer
+Before increment
+0x7ffe72829bac
+After increment
+0x7ffe72829bb0
+
+For float
+Before increment
+0x7ffe72829ba8
+After increment
+0x7ffe72829bac
+
+For boolean
+Before increment
+0x7ffe72829ba6
+After increment
+0x7ffe72829ba7
+
+For character
+Before increment
+sffA
+
+After increment
+ffA
+*/
