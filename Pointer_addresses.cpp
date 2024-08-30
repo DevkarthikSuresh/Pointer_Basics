@@ -13,3 +13,9 @@ int main() {
 
     return 0;
 }
+/*
+Output
+10
+0x7ffccf44bba4
+0x7ffccf44bba4
+*/
